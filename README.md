@@ -1,2 +1,2 @@
 # numpy
-Jupyter Notebook for Numpy functions required for Artificial Intelligence, Machine Learning & Deep Learning.
+Jupyter Notebooks to learn Artificial Intelligence, Machine Learning & Deep Learning from Basics to Advanced.
